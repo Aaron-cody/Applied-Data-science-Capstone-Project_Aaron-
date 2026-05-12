@@ -9,6 +9,15 @@
 
 This project demonstrates an end-to-end applied data science workflow using SpaceX Falcon 9 launch data. The goal is to predict whether the first stage of a Falcon 9 rocket will land successfully using data collection, data wrangling, exploratory data analysis, geospatial visualization, and machine learning.
 
+## Project Highlights
+
+- Built an end-to-end data science workflow from data collection to model evaluation
+- Collected and prepared SpaceX Falcon 9 launch data using web scraping and structured data sources
+- Performed exploratory data analysis to identify patterns in launch success
+- Created geospatial analysis of launch sites using interactive map visualizations
+- Built classification models to predict first-stage landing success
+- Connected the technical workflow to business decision-making and risk analytics
+
 ## Executive Summary
 
 This project applies an end-to-end data science workflow to predict whether the first stage of a SpaceX Falcon 9 rocket launch will land successfully. The project combines web scraping, data wrangling, exploratory data analysis, geospatial visualization, and machine learning to support data-driven decision-making.
