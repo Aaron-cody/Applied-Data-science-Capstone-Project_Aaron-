@@ -1,5 +1,14 @@
 # Applied Data Science Capstone: SpaceX Falcon 9 Launch Success Prediction
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+## Project Overview
+
+This project demonstrates an end-to-end applied data science workflow using SpaceX Falcon 9 launch data. The goal is to predict whether the first stage of a Falcon 9 rocket will land successfully using data collection, data wrangling, exploratory data analysis, geospatial visualization, and machine learning.
+
 ## Executive Summary
 
 This project applies an end-to-end data science workflow to predict whether the first stage of a SpaceX Falcon 9 rocket launch will land successfully. The project combines web scraping, data wrangling, exploratory data analysis, geospatial visualization, and machine learning to support data-driven decision-making.
