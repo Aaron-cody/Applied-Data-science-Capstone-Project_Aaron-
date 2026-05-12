@@ -1,4 +1,4 @@
-# SpaceX Falcon 9 Landing Success Prediction
+# Applied Data Science Portfolio: SpaceX Falcon 9 Landing Success Prediction
 
 An end-to-end applied data science project that predicts whether a SpaceX Falcon 9 first stage will land successfully. The project covers data collection, wrangling, exploratory analysis, geospatial context, and machine learning model comparison.
 
@@ -17,7 +17,7 @@ Falcon 9 first-stage recovery is central to launch cost reduction. Predicting la
 
 ## Key Results
 
-The cleaned final evaluation uses local CSV snapshots and a train/test split with preprocessing fit only on the training data.
+The cleaned final evaluation uses local CSV snapshots and a train/test split with preprocessing fitted only on the training data.
 
 | Model | Best CV Accuracy | Test Accuracy |
 |---|---:|---:|
@@ -82,7 +82,7 @@ Important caveat: the test set contains only 18 rows, so the result should be in
 
 The original notebooks are preserved. The final summary notebook is the recommended entry point for review.
 
-## How To Run
+## How to Run
 
 Create an environment and install dependencies:
 
@@ -103,4 +103,4 @@ The final notebook uses local data in `data/processed/` and local images in `fig
 - The dataset is small: 90 launches total.
 - The held-out test set has 18 rows.
 - Some orbit categories have very few examples.
-- The model is intended for portfolio analysis, not operational launch decision-making.
+- The model is intended as a portfolio demonstration of an applied data science workflow, not as an operational launch-risk system.
