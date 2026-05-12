@@ -1,0 +1,5 @@
+model,cv_accuracy,test_accuracy,best_params
+Logistic Regression,0.8352380952380953,0.8333333333333334,"{'model__C': 0.1, 'model__penalty': 'l1'}"
+SVM,0.8771428571428572,0.8333333333333334,"{'model__C': 0.01, 'model__gamma': 'scale', 'model__kernel': 'linear'}"
+KNN,0.8638095238095239,0.8333333333333334,"{'model__n_neighbors': 9, 'model__p': 1, 'model__weights': 'distance'}"
+Decision Tree,0.862857142857143,0.7777777777777778,"{'criterion': 'gini', 'max_depth': 2, 'min_samples_leaf': 1, 'min_samples_split': 2}"
